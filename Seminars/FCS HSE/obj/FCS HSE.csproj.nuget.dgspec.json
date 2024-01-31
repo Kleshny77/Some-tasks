@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kleshny/Projects/Seminars/FCS HSE/FCS HSE.csproj": {}
+  },
+  "projects": {
+    "/Users/kleshny/Projects/Seminars/FCS HSE/FCS HSE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kleshny/Projects/Seminars/FCS HSE/FCS HSE.csproj",
+        "projectName": "FCS HSE",
+        "projectPath": "/Users/kleshny/Projects/Seminars/FCS HSE/FCS HSE.csproj",
+        "packagesPath": "/Users/kleshny/.nuget/packages/",
+        "outputPath": "/Users/kleshny/Projects/Seminars/FCS HSE/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kleshny/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

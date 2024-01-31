@@ -1,0 +1,15 @@
+/Users/kleshny/Projects/Seminars2/hse/bin/Debug/net6.0/hse
+/Users/kleshny/Projects/Seminars2/hse/bin/Debug/net6.0/hse.deps.json
+/Users/kleshny/Projects/Seminars2/hse/bin/Debug/net6.0/hse.runtimeconfig.json
+/Users/kleshny/Projects/Seminars2/hse/bin/Debug/net6.0/hse.dll
+/Users/kleshny/Projects/Seminars2/hse/bin/Debug/net6.0/hse.pdb
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/hse.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/hse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/hse.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/hse.AssemblyInfo.cs
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/hse.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/hse.dll
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/refint/hse.dll
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/hse.pdb
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/hse.genruntimeconfig.cache
+/Users/kleshny/Projects/Seminars2/hse/obj/Debug/net6.0/ref/hse.dll

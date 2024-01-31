@@ -1,0 +1,15 @@
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/FCS HSE.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/FCS HSE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/FCS HSE.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/FCS HSE.AssemblyInfo.cs
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/FCS HSE.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/Seminars/FCS HSE/bin/Debug/net6.0/FCS HSE
+/Users/kleshny/Projects/Seminars/FCS HSE/bin/Debug/net6.0/FCS HSE.deps.json
+/Users/kleshny/Projects/Seminars/FCS HSE/bin/Debug/net6.0/FCS HSE.runtimeconfig.json
+/Users/kleshny/Projects/Seminars/FCS HSE/bin/Debug/net6.0/FCS HSE.dll
+/Users/kleshny/Projects/Seminars/FCS HSE/bin/Debug/net6.0/FCS HSE.pdb
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/FCS HSE.dll
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/refint/FCS HSE.dll
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/FCS HSE.pdb
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/FCS HSE.genruntimeconfig.cache
+/Users/kleshny/Projects/Seminars/FCS HSE/obj/Debug/net6.0/ref/FCS HSE.dll
